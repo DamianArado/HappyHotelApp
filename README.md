@@ -1,2 +1,2 @@
 # HappyHotelApp
-Mockito3 tests implementation ✅
+Mockito3 tests implementation. ✅
